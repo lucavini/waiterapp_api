@@ -1,0 +1,15 @@
+{
+  "name": "waiterapp_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.2.0",
+    "@commitlint/config-conventional": "^17.2.0",
+    "husky": "^8.0.2",
+    "typescript": "^4.8.4"
+  }
+}
